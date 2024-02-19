@@ -1,0 +1,264 @@
+{
+  "basics": {
+    "name": "Luis Alejandro Anaya Marín",
+    "label": "Full Stack React Developer specialized in Next.js and Tailwind CSS",
+    "image": "/images/me.webp",
+    "email": "luis@laam.dev",
+    "phone": "+34 689584226",
+    "url": "https://laam.dev",
+    "summary": "+4 years of experience as an in-house and freelance developer. Based in Madrid, Spain, I currently collaborate remotely with clients in the US, the UK, and Spain. I've worked on a wide range of projects, from full legacy code migrations to helping companies and individuals upgrade the digital presence of their businesses.",
+    "location": {
+      "address": "Calle Luis de Salazar, 9, 4J",
+      "postalCode": "28002",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "laamdev",
+        "url": "https://linkedin.com/in/laamdev"
+      },
+      {
+        "network": "X",
+        "username": "@laam_dev",
+        "url": "https://x.com/laam_dev"
+      },
+      {
+        "network": "GitHub",
+        "username": "laamdev",
+        "url": "https://github.com/laamdev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LGR (UK) LTD",
+      "position": "Freelance Consultant",
+      "url": "https://www.lgruk.co.uk",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Helped small business owners in the digitalization process of their businesses. Did full migrations of legacy codebases and revamped the design and branding of outdated sites. Focused on performance, SEO optimization, and web vitals to improve the client's digital presence.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Bukitt",
+      "position": "In-house Lead Developer",
+      "url": "https://www.bukitt.com",
+      "startDate": "2021-03-01",
+      "endDate": "2023-03-01",
+      "summary": "Developed websites for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "LAAM.DEV",
+      "position": "Freelance Full Stack Developer",
+      "url": "https://www.laam.dev",
+      "startDate": "2020-01-01",
+      "endDate": null,
+      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ironhack Madrid",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Web Development Bootcamp",
+      "studyType": "Bootcamp",
+      "startDate": "2019-04-01",
+      "endDate": "2020-08-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "University of York",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "MA in Postproduction and Sound Design",
+      "studyType": "Master",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Universidad Carlos III",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "BA in Media Studies and Film (bilingual)",
+      "studyType": "Bachelor",
+      "startDate": "2010-07-01",
+      "endDate": "2014-07-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "BlueFin Aviation",
+      "isActive": true,
+      "description": "Marketing site, email automation, and CMS setup for a Miami-based aviation company",
+      "highlights": ["Next.js", "Tailwind CSS", "TypeScript", "Sendgrid"],
+      "url": "https://www.bluefinaviation.com"
+    },
+    {
+      "name": "Bukitt Camino",
+      "isActive": true,
+      "description": "Marketing site, branding, email automation, and CMS setup for a Miami-based travel agency",
+      "highlights": ["Next.js", "Tailwind CSS", "Sanity CMS"],
+      "url": "https://www.bukittcamino.com"
+    },
+    {
+      "name": "My Exit",
+      "isActive": true,
+      "description": "Marketing site, blog, and CMS setup for a UK-based investement firm",
+      "highlights": ["Next.js", "Tailwind CSS", "Sanity CMS", "Sendgrid"],
+      "url": "https://www.myexit.uk"
+    },
+    {
+      "name": "Cristina Galán",
+      "isActive": true,
+      "description": "Digital portfolio for Madrid-based artist Cristina Galán",
+      "highlights": ["Next.js", "Hygraph CMS", "Tailwind CSS", "Framer Motion"],
+      "url": "https://www.cristinagalan.com",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Buy a Rug",
+      "isActive": true,
+      "description": "E-commerce website for a UK-based carpet store",
+      "highlights": ["Next.js", "ElasticSearch", "Tailwind CSS", "Stripe"],
+      "url": "https://buyarug.co.uk"
+    },
+    {
+      "name": "The Year in Books",
+      "isActive": true,
+      "description": "Yearly reading challenge app with user-based data visualization.",
+      "highlights": [
+        "Side-project",
+        "Next.js",
+        "shadcn/UI",
+        "Supabase",
+        "Drizzle ORM"
+      ],
+      "url": "https://the-year-in-books.vercel.app",
+      "github": "https://github.com/midudev/codi.link"
+    }
+  ]
+}

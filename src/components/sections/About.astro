@@ -1,0 +1,13 @@
+---
+import Section from "@/components/global/Section.astro";
+import Body from "@/components/global/Body.astro";
+
+import { basics } from "@cv";
+const { summary } = basics;
+---
+
+<Section title="About">
+  <Body>
+    {summary}
+  </Body>
+</Section>

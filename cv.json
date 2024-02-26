@@ -6,7 +6,7 @@
     "email": "luis@laam.dev",
     "phone": "+34 689584226",
     "url": "https://laam.dev",
-    "summary": "+4 years of experience as an in-house and freelance developer. Based in Madrid, Spain, I currently collaborate remotely with clients in the US, the UK, and Spain. I've worked on a wide range of projects, from full legacy code migrations to helping companies and individuals upgrade the digital presence of their businesses.",
+    "summary": "+4 years of experience as an in-house and freelance developer. Based in Madrid, Spain, I currently collaborate remotely with clients in the US, the UK, and Spain. I've worked on a wide range of projects, from legacy code migrations and redesigns to complex CMS setups and SEO optimizations. I'm passionate about helping companies and individuals upgrade the digital presence of their businesses.",
     "location": {
       "address": "Calle Luis de Salazar, 9, 4J",
       "postalCode": "28002",
@@ -21,14 +21,14 @@
         "url": "https://linkedin.com/in/laamdev"
       },
       {
-        "network": "X",
-        "username": "@laam_dev",
-        "url": "https://x.com/laam_dev"
-      },
-      {
         "network": "GitHub",
         "username": "laamdev",
         "url": "https://github.com/laamdev"
+      },
+      {
+        "network": "X",
+        "username": "@laam_dev",
+        "url": "https://x.com/laam_dev"
       }
     ]
   },
@@ -48,7 +48,7 @@
       "url": "https://www.bukitt.com",
       "startDate": "2021-03-01",
       "endDate": "2023-03-01",
-      "summary": "Developed websites for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Developed marketing/blog website and set up a CMS for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. Designed the branding, optimized the SEO and setup an automatized marketing system for transactional emails and newsletters.",
       "highlights": ["Started the company"]
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.laam.dev",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Developed marketing sites, e-commerce, digital portfolios, SaaS dashboards, and productivity apps for a wide range of agencies and individual clients. Currently have 10+ live websites.",
       "highlights": ["Started the company"]
     }
   ],
@@ -132,9 +132,34 @@
   "skills": [
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Server Actions",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Agnostic Framework",
+        "React",
+        "Sveltekit",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
         "Frontend",
         "React Framework",
         "SSR",
@@ -143,48 +168,53 @@
     },
     {
       "name": "Tailwind CSS",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "CSS Framework",
-        "Diseño Responsive"
+        "Responsive Design"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
+      "name": "shadcn/UI",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Component Library",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Framer Motion",
+      "keywords": ["Animations", "Frontend", "CSS", "Creative Design"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
         "Frontend",
         "Backend",
         "JavaScript Superset"
       ]
     },
     {
-      "name": "PostgreSQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "name": "Supabase",
+      "level": "Advanced",
+      "keywords": ["Database", "PostgreSQL", "Backend"]
     },
     {
-      "name": "Git",
+      "name": "Drizzle ORM",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": ["ORM", "Database", "Backend"]
     },
     {
-      "name": "GitHub",
+      "name": "Zustand",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "keywords": ["Global State Management"]
     }
   ],
   "languages": [
@@ -214,21 +244,39 @@
       "name": "BlueFin Aviation",
       "isActive": true,
       "description": "Marketing site, email automation, and CMS setup for a Miami-based aviation company",
-      "highlights": ["Next.js", "Tailwind CSS", "TypeScript", "Sendgrid"],
+      "highlights": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Sendgrid",
+        "Sanity CMS"
+      ],
       "url": "https://www.bluefinaviation.com"
     },
     {
       "name": "Bukitt Camino",
       "isActive": true,
       "description": "Marketing site, branding, email automation, and CMS setup for a Miami-based travel agency",
-      "highlights": ["Next.js", "Tailwind CSS", "Sanity CMS"],
+      "highlights": [
+        "Next.js",
+        "Tailwind CSS",
+        "Sanity CMS",
+        "Sendgrid",
+        "Tailwind UI"
+      ],
       "url": "https://www.bukittcamino.com"
     },
     {
       "name": "My Exit",
       "isActive": true,
       "description": "Marketing site, blog, and CMS setup for a UK-based investement firm",
-      "highlights": ["Next.js", "Tailwind CSS", "Sanity CMS", "Sendgrid"],
+      "highlights": [
+        "Next.js",
+        "Tailwind CSS",
+        "Sanity CMS",
+        "shadcn/UI",
+        "Sendgrid"
+      ],
       "url": "https://www.myexit.uk"
     },
     {
@@ -253,6 +301,7 @@
       "highlights": [
         "Side-project",
         "Next.js",
+        "Server Actions",
         "shadcn/UI",
         "Supabase",
         "Drizzle ORM"

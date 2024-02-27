@@ -1,7 +1,7 @@
 {
-  "name": "cv",
+  "name": "laam-cv",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -16,6 +16,7 @@
     "@fontsource/fira-mono": "^5.0.8",
     "@fontsource/fira-sans": "^5.0.18",
     "astro": "^4.4.5",
+    "astro-seo": "^0.8.2",
     "clsx": "^2.1.0",
     "ninja-keys": "^1.2.2",
     "tailwind-merge": "^2.2.1",

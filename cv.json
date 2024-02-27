@@ -6,7 +6,7 @@
     "email": "luis@laam.dev",
     "phone": "+34 689584226",
     "url": "https://laam.dev",
-    "summary": "+4 years of experience as an in-house and freelance developer. Based in Madrid, Spain, I currently collaborate remotely with clients in the US, the UK, and Spain. I've worked on a wide range of projects, from legacy code migrations and redesigns to complex CMS setups and SEO optimizations. I'm passionate about helping companies and individuals upgrade the digital presence of their businesses.",
+    "summary": "+4 years of experience as an in-house and freelance developer, either building products from scratch or helping businesses enhance their digital presence. Based in Madrid, Spain, I currently collaborate remotely with clients and companies from the US, Spain, and the UK, among others. I've worked solo or as a team member on a wide range of projects, from legacy code migrations and full visual redesigns to complex CMS setups and SEO optimizations.",
     "location": {
       "address": "Calle Luis de Salazar, 9, 4J",
       "postalCode": "28002",
@@ -39,8 +39,8 @@
       "url": "https://www.lgruk.co.uk",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Helped small business owners in the digitalization process of their businesses. Did full migrations of legacy codebases and revamped the design and branding of outdated sites. Focused on performance, SEO optimization, and web vitals to improve the client's digital presence.",
-      "highlights": ["Started the company"]
+      "summary": "Helped small business owners in the digitalization process of their businesses. Led full migrations of legacy codebases, revamped inneficient design systems, implemented new features, modernized outdated UX/UI practices, and set up content management systems. Focused on performance, SEO optimization, and web vitals to improve the client's search results rankings.",
+      "highlights": ["Main Next.js consultant"]
     },
     {
       "name": "Bukitt",
@@ -48,8 +48,8 @@
       "url": "https://www.bukitt.com",
       "startDate": "2021-03-01",
       "endDate": "2023-03-01",
-      "summary": "Developed marketing/blog website and set up a CMS for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. Designed the branding, optimized the SEO and setup an automatized marketing system for transactional emails and newsletters.",
-      "highlights": ["Started the company"]
+      "summary": "Developed two marketing/blog websites for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. Setup CMS for non-tech savvy marketing team members. Created branding, optimzed SEO, and designed automated marketing email system. Collaborated in the design of visual marketing material and social media strategies.",
+      "highlights": ["Head of development team"]
     },
     {
       "name": "LAAM.DEV",
@@ -57,7 +57,7 @@
       "url": "https://www.laam.dev",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Developed and created the UX/UI design of several marketing sites, e-commerces, digital portfolios, SaaS dashboards, and productivity apps for a wide range of clients. Focused on high performance and SEO-optimization. Currently have 10+ live websites.",
+      "summary": "Developed and designed from scratch several marketing sites, e-commerces, digital portfolios, SaaS dashboards, and productivity apps for a wide range of clients. Currently have 10+ live websites built on top of the latest features and concepts of the Next.js and Astro ecosystems (Server Actions, RSC, etc.)",
       "highlights": ["Started the company"]
     }
   ],
@@ -156,14 +156,13 @@
       ]
     },
     {
-      "name": "React",
+      "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
         "Web Development",
         "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
@@ -192,14 +191,8 @@
       "keywords": ["Animations", "Frontend", "CSS", "Creative Design"]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "name": "Sanity CMS",
+      "keywords": ["Animations", "Frontend", "CSS", "Creative Design"]
     },
     {
       "name": "Supabase",
@@ -208,13 +201,24 @@
     },
     {
       "name": "Drizzle ORM",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": ["ORM", "Database", "Backend"]
     },
     {
       "name": "Zustand",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": ["Global State Management"]
+    },
+    {
+      "name": "React",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
     }
   ],
   "languages": [

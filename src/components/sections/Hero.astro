@@ -22,10 +22,19 @@ const SOCIAL_ICONS: Record<string, any> = {
 const linkedInInfo = profiles.find(({ network }) => network === "LinkedIn");
 const linkedInUrl = linkedInInfo?.url;
 
-const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ");
+const githubInfo = profiles.find(({ network }) => network === "GitHub");
+const githubUrl = githubInfo?.url;
+
+const printInfo = [email, phone, linkedInUrl, githubUrl, url]
+  .filter(Boolean)
+  .join(" --- ");
 ---
 
 <Section>
+  <div class="hidden print:block text-xs mb-4">
+    {printInfo}
+  </div>
+
   <div class="flex gap-2 items-center justify-between">
     <div>
       <h1 class="text-2xl font-bold tracking-tight">{name}</h1>
@@ -36,11 +45,8 @@ const printInfo = [email, phone, linkedInUrl].filter(Boolean).join(" • ");
         <World width={16} height={16} />
         {city}, {region}
       </span>
-      <footer class="mt-4">
-        <div class="hidden print:block">
-          {printInfo}
-        </div>
-        <div class="flex gap-x-2 items-center print:hidden">
+      <footer class="mt-4 print:hidden">
+        <div class="flex gap-x-2 items-center">
           {
             email && (
               <a

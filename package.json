@@ -10,17 +10,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.6",
+    "@astrojs/check": "^0.5.10",
     "@astrojs/tailwind": "^5.1.0",
-    "@fontsource-variable/fira-code": "^5.0.16",
-    "@fontsource/fira-mono": "^5.0.8",
-    "@fontsource/fira-sans": "^5.0.18",
-    "astro": "^4.4.5",
-    "astro-seo": "^0.8.2",
+    "@fontsource-variable/fira-code": "^5.0.17",
+    "@fontsource/fira-mono": "^5.0.12",
+    "@fontsource/fira-sans": "^5.0.19",
+    "astro": "^4.5.16",
+    "astro-seo": "^0.8.3",
     "clsx": "^2.1.0",
     "ninja-keys": "^1.2.2",
-    "tailwind-merge": "^2.2.1",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5.3.3"
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.4"
   }
 }

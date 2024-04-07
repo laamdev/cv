@@ -44,20 +44,20 @@
     },
     {
       "name": "Bukitt",
-      "position": "In-house Lead Developer",
+      "position": "In-house Developer & Content Manager",
       "url": "https://www.bukitt.com",
       "startDate": "2021-03-01",
       "endDate": "2023-03-01",
-      "summary": "Developed two marketing/blog websites for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. Setup CMS for non-tech savvy marketing team members. Created branding, optimzed SEO, and designed automated marketing email system. Collaborated in the design of visual marketing material and social media strategies.",
+      "summary": "Developed two marketing/blog websites for the luxury travel agency Bukitt and its Camino de Santiago spin-off, Bukitt Camino. UX/UI design from scratch. Setup CMS for non-tech savvy marketing team members. Created branding, optimzed SEO, and designed automated marketing email system. Collaborated in the design of visual marketing material and social media strategies.",
       "highlights": ["Head of development team"]
     },
     {
       "name": "LAAM.DEV",
-      "position": "Freelance Full Stack Developer",
+      "position": "Freelance Next.js Developer",
       "url": "https://www.laam.dev",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Developed and designed from scratch several marketing sites, e-commerces, digital portfolios, SaaS dashboards, and productivity apps for a wide range of clients. Currently have 10+ live websites built on top of the latest features and concepts of the Next.js and Astro ecosystems (Server Actions, RSC, etc.)",
+      "summary": "Developed and designed from scratch several marketing sites, e-commerces, digital portfolios, SaaS dashboards, and productivity apps for a wide range of clients. Currently have 10+ live websites built on top of the latest features and concepts of the Next.js and Astro ecosystems (Server Actions, RSC, Astro Studio, etc.)",
       "highlights": ["Started the company"]
     }
   ],
@@ -143,16 +143,13 @@
       ]
     },
     {
-      "name": "Astro",
+      "name": "Tailwind CSS",
       "level": "Advanced",
       "keywords": [
         "Web Development",
         "Frontend",
-        "Agnostic Framework",
-        "React",
-        "Sveltekit",
-        "SSR",
-        "Static Generation"
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
@@ -166,13 +163,16 @@
       ]
     },
     {
-      "name": "Tailwind CSS",
+      "name": "Astro",
       "level": "Advanced",
       "keywords": [
         "Web Development",
         "Frontend",
-        "CSS Framework",
-        "Responsive Design"
+        "Agnostic Framework",
+        "React",
+        "Sveltekit",
+        "SSR",
+        "Static Generation"
       ]
     },
     {

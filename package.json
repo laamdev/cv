@@ -10,17 +10,25 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.10",
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/react": "^3.4.0",
     "@astrojs/tailwind": "^5.1.0",
-    "@fontsource-variable/fira-code": "^5.0.17",
-    "@fontsource/fira-mono": "^5.0.12",
-    "@fontsource/fira-sans": "^5.0.19",
-    "astro": "^4.5.16",
-    "astro-seo": "^0.8.3",
-    "clsx": "^2.1.0",
+    "@fontsource-variable/fira-code": "^5.0.18",
+    "@fontsource/fira-mono": "^5.0.13",
+    "@fontsource/fira-sans": "^5.0.20",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "astro": "^4.9.3",
+    "astro-seo": "^0.8.4",
+    "clsx": "^2.1.1",
     "ninja-keys": "^1.2.2",
-    "tailwind-merge": "^2.2.2",
-    "tailwindcss": "^3.4.3",
-    "typescript": "^5.4.4"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.3"
   }
 }

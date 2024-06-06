@@ -5,6 +5,8 @@
     "paths": {
       "@cv": ["./cv.json"],
       "@/*": ["src/*"]
-    }
+    },
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
   }
 }

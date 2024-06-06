@@ -6,7 +6,7 @@
     "email": "luis@laam.dev",
     "phone": "+34 689584226",
     "url": "https://laam.dev",
-    "summary": "+4 years of experience as an in-house and freelance developer, either building products from scratch or helping businesses enhance their digital presence. Based in Madrid, Spain, I currently collaborate remotely with clients and companies from the US, Spain, and the UK, among others. I've worked solo or as a team member on a wide range of projects, from legacy code migrations and full visual redesigns to complex CMS setups and SEO optimizations.",
+    "summary": "+4 years of experience as an in-house and freelance developer, either building end-to-end sites/apps or helping businesses enhance their digital presence. Based in Madrid, I currently collaborate remotely with clients and companies from the US, Spain, and the UK. I've worked solo or as a team member on a wide range of projects, from legacy code migrations and full visual redesigns to complex CMS setups and SEO optimizations.",
     "location": {
       "address": "Calle Luis de Salazar, 9, 4J",
       "postalCode": "28002",
@@ -33,6 +33,15 @@
     ]
   },
   "work": [
+    {
+      "name": "Nuela",
+      "position": "Full-stack Developer",
+      "url": "https://www.nuela.app/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-03-01",
+      "summary": "Designed and developed a SaaS platform for the education industry (schedule creation and teacher substition). Worked on the full stack, from the database to the front-end, using Next.js, Tailwind CSS, and Supabase. Collaborated with the design team to create a user-friendly interface and a responsive design.",
+      "highlights": ["Mid-Senior developer"]
+    },
     {
       "name": "LGR (UK) LTD",
       "position": "Freelance Consultant",
@@ -229,18 +238,6 @@
     {
       "language": "English",
       "fluency": "Proficiency"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
     }
   ],
   "projects": [

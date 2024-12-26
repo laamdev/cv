@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Luis Alejandro Anaya Marin",
-    "label": "Full Stack React Developer specialized in Next.js and Tailwind CSS",
+    "label": "Mid-level Fullstack developer specialized in Next.js, Tailwind CSS and Sanity CMS.",
     "image": "/images/me.webp",
-    "email": "luis@laam.dev",
+    "email": "brothersailorwebdev@gmail.com",
     "phone": "+34 689584226",
     "url": "https://laam.dev",
     "summary": "+4 years of experience as an in-house and freelance developer, either building end-to-end sites/apps or helping businesses enhance their digital presence. Based in Madrid, I currently collaborate remotely with clients and companies from the US, Spain, and the UK. I've worked solo or as a team member on a wide range of projects, from legacy code migrations and full visual redesigns to complex CMS setups and SEO optimizations.",
@@ -244,7 +244,7 @@
     {
       "name": "BlueFin Aviation",
       "isActive": true,
-      "description": "Marketing site, email automation, and CMS setup for a Miami-based aviation company",
+      "description": "Legacy-code migration and full visual redesign of the marketing site of a Miami-based aviation company",
       "highlights": [
         "Next.js",
         "Tailwind CSS",
@@ -257,7 +257,7 @@
     {
       "name": "Bukitt Camino",
       "isActive": true,
-      "description": "Marketing site, branding, email automation, and CMS setup for a Miami-based travel agency",
+      "description": "End-to-end development, branding, email automation, and CMS setup for the marketing site of a Miami-based travel agency",
       "highlights": [
         "Next.js",
         "Tailwind CSS",
@@ -270,7 +270,7 @@
     {
       "name": "My Exit",
       "isActive": true,
-      "description": "Marketing site, blog, and CMS setup for a UK-based investement firm",
+      "description": "End-to-end development, design, and CMS setup for the marketing site of a UK-based investement firm",
       "highlights": [
         "Next.js",
         "Tailwind CSS",
@@ -283,7 +283,7 @@
     {
       "name": "Cristina Galan",
       "isActive": true,
-      "description": "Digital portfolio for Madrid-based artist Cristina Galán",
+      "description": "Digital portfolio for the Madrid-based artist Cristina Galán",
       "highlights": ["Next.js", "Hygraph CMS", "Tailwind CSS", "Framer Motion"],
       "url": "https://www.cristinagalan.com",
       "github": "https://github.com/midudev/codi.link"
@@ -294,21 +294,6 @@
       "description": "E-commerce website for a UK-based carpet store",
       "highlights": ["Next.js", "ElasticSearch", "Tailwind CSS", "Stripe"],
       "url": "https://buyarug.co.uk"
-    },
-    {
-      "name": "The Year in Books",
-      "isActive": true,
-      "description": "Yearly reading challenge app with user-based data visualization.",
-      "highlights": [
-        "Side-project",
-        "Next.js",
-        "Server Actions",
-        "shadcn/UI",
-        "Supabase",
-        "Drizzle ORM"
-      ],
-      "url": "https://the-year-in-books.vercel.app",
-      "github": "https://github.com/midudev/codi.link"
     }
   ]
 }

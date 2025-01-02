@@ -242,9 +242,22 @@
   ],
   "projects": [
     {
+      "name": "PTR Associates",
+      "isActive": true,
+      "description": "Migrated legacy code, executed a complete visual redesign, and handled CMS migration and setup for the marketing website of UK-based IT consultancy agency.",
+      "highlights": [
+        "Next.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "Sendgrid",
+        "Sanity CMS"
+      ],
+      "url": "https://wwwptr.vercel.app/"
+    },
+    {
       "name": "BlueFin Aviation",
       "isActive": true,
-      "description": "Legacy-code migration and full visual redesign of the marketing site of a Miami-based aviation company",
+      "description": "Legacy code migration and complete visual redesign of the marketing website for a Miami-based aviation company.",
       "highlights": [
         "Next.js",
         "Tailwind CSS",
@@ -270,7 +283,7 @@
     {
       "name": "My Exit",
       "isActive": true,
-      "description": "End-to-end development, design, and CMS setup for the marketing site of a UK-based investement firm",
+      "description": "End-to-end Full-stack development, design, and CMS integration for the marketing website of a UK-based investment firm.",
       "highlights": [
         "Next.js",
         "Tailwind CSS",
